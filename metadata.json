@@ -1,0 +1,6 @@
+{
+  "name": "KenKen Studio",
+  "description": "Interactive KenKen puzzle solver, manual cage creator, AI image OCR scanner, difficulty-calibrated generator, and step-by-step constraint-propagation visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
